@@ -17,6 +17,24 @@
       "interest": "DSA",
       "reference": "LinkedIn",
       "id": 2
+    },
+    {
+      "name": "Surakattula Goutham",
+      "email": "sgouthamgiridhar@gmail.com",
+      "contact": "6304527573",
+      "profession": "Software Engineer",
+      "interest": "Full Stack Development",
+      "reference": "LinkedIn",
+      "id": 3
+    },
+    {
+      "name": "Shaik Riyaz",
+      "email": "shaik@gmail.com",
+      "contact": "1234567890",
+      "profession": "Software Engineer",
+      "interest": "Full Stack Development",
+      "reference": "Instagram",
+      "id": 4
     }
   ]
 }

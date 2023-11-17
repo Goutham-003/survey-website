@@ -2,7 +2,7 @@
 
 body {
   /* background-color: #F2EAD3;  */
-  background-image: url("F:\Projects\survey-website\frontend\public\bg.png");
+  background-image: url("F:\Projects\survey-website\survey-website\public\bg.png");
   border: 5px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -34,4 +34,11 @@ body {
   width: 100%;
   bottom: 0;
   color: white;
+}
+.tick-img{
+  width: 40%;
+}
+.card{
+  justify-content: center;
+  align-items: center;
 }
